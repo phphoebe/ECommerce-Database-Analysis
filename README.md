@@ -13,5 +13,8 @@ This repository consists of some of the hands-on assignment and project question
 ### 5. User-Level Analysis 
 
 
+### Takeaways:
+
+
 ### Acknowledgement: 
 The original database and ERD are owned by the instructor which are not publicly available here. 
