@@ -41,9 +41,9 @@ By exploring the database and **writing multi-step SQL queries to work on real-w
 * Think proactively as an analyst to figure out what metrics to use to judge performance for a specific field/line of business. 
 * Conduct time-series or trend analysis to monitor impact of change (e.g. bid adjust or new page/product launch). 
 * Slice and dice data in segments (e.g. desktop vs. mobile) to continue to look for ways for performance optimization. 
-* Use CTEs/Temp Tables to perform multi-step “data program” analyses. Map out each of the steps need to get to the answer. 
+* Use CTEs/Temp Tables to perform multi-step “data program” analyses. Map out each step needed to get to the answer. 
 * For A/B split tests, limit time periods to where both versions were live to ensure fair comparison. 
-* Use the Pageview URL field (similar to the Page Title metric in GA) to build conversion funnels to analyze CTRs for each step.
+* Use Pageview URL (similar to the Page Title metric in GA) to build conversion funnels to analyze CTRs for each step.
 * Use Inequality Join and DATEDIFF Function to analyze repeat customer behavior and repeat channel performance.
 * Leverage MIN/MAX and join with comparisons to identify the first/most recent data points of auto-increment values. 
 
