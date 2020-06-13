@@ -6,7 +6,7 @@ By exploring the database and **writing multi-step SQL queries to work on real-w
 
 * Working as an eCommerce Database Analyst for a fictional start-up online retailer. 
 * Exploring the database with multiple tables containing data about website activity, products, and orders and refunds.
-* Tackling the assignments and project questions structured in way that follow the life of the company in chronological order. 
+* Tackling the assignments and projects structured in way that follow the life of the company in chronological order. 
 * Extracting and analyzing data using SQL to help Marketing and Website Managers to steer the business in below fields:
 
 
