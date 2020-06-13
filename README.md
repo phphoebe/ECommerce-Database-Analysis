@@ -4,6 +4,12 @@ This repository consists of some of the assignments and project questions I’ve
 
 By exploring the database and **writing multi-step SQL queries to work on real-world eCommerce use cases**, I’ve improved MySQL Workbench Skills, gained a deeper understanding of leveraging SQL data analysis to help shape the performance and direction of business and, solidified digial marketing domain knowledge particuarly **Web Analytics**.
 
+* Working as an eCommerce Database Analyst for a fictional start-up online retailer. 
+* Exploring the database with multiple tables containing data about website activity, products, and orders and refunds.
+* Tackling the assignments and project questions structured in way that follow the life of the company in chronological order. 
+* Extracting and analyzing data using SQL to help Marketing and Website Managers to steer the business in below fields:
+
+
 
 ### [1. Traffic Analysis & Optimization](https://github.com/phphoebe/ecommerce-database-analysis/blob/master/1-Traffic%20Analysis%20%26%20Optimization.pdf) 
 * Identify top volume and high-converting traffic 
