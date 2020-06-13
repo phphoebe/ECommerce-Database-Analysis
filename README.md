@@ -20,4 +20,4 @@ By exploring the database and **writing multi-step SQL queries to work on real-w
 
 
 ### Acknowledgement: 
-The original database and ERD are owned by the instructor which are not publicly available here. 
+This practice project is part of the [Advanced SQL + MySQL for Analytics & Business Intelligence](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/) course taught by John Pauler (Analytics Experts with Maven Analytics). The original dataset and and database ERD are owned by the instructor which are not publicly available here. 
