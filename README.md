@@ -42,9 +42,9 @@ By exploring the database and **writing multi-step SQL queries to work on real-w
 * Use CTEs to perform multi-step “data program” analyses. Map out each step needed to get to the answer.
 * Slice data in segments (e.g. desktop vs. mobile) to continue to look for ways for performance optimization. 
 * Conduct time-series or trend analysis to monitor impact of change (e.g. bid adjust or new page/product launch). 
-* Use Pageview URL (similar to the Page Title metric in GA) to build conversion funnels to analyze CTRs for each step.
+* Use Pageview URL (similar to "Page Title" in GA) to build conversion funnels to analyze CTRs for each step.
 * Use Inequality Join and DATEDIFF Function to analyze repeat customer behavior and repeat channel performance.
-* Leverage MIN/MAX and join with comparisons to identify the first/most recent data points of auto-increment values. 
+* Leverage MIN/MAX and Inequality Join to identify the first/most recent data points of auto-increment values. 
 * For A/B split tests, limit time periods to where both versions were live to ensure fair comparison. 
 
 
