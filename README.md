@@ -7,7 +7,7 @@ By exploring the database and **writing multi-step SQL queries to work on real-w
 * Working as an eCommerce Database Analyst for a start-up online retailer. 
 * Exploring the database with multiple tables containing data about website activity, orders and products.
 * Tackling the assignments and projects structured in way that follow the life of the company in chronological order. 
-* Extracting and analyzing data using SQL to help Marketing and Website Managers to steer the business in below fields:
+* Extracting and analyzing data using SQL to help Marketing and Website Managers to steer the business in:
 
 
 
@@ -38,9 +38,9 @@ By exploring the database and **writing multi-step SQL queries to work on real-w
 * Analyze repeat channel
 
 ### Takeaways:
-* Think proactively as an analyst to figure out what metrics to use to judge performance for a specific field/line of business. 
-* Use CTEs/Temp Tables to perform multi-step “data program” analyses. Map out each step needed to get to the answer.
-* Slice and dice data in segments (e.g. desktop vs. mobile) to continue to look for ways for performance optimization. 
+* Think proactively as an analyst to figure out what metrics to use to judge performance for a specific field. 
+* Use CTEs to perform multi-step “data program” analyses. Map out each step needed to get to the answer.
+* Slice data in segments (e.g. desktop vs. mobile) to continue to look for ways for performance optimization. 
 * Conduct time-series or trend analysis to monitor impact of change (e.g. bid adjust or new page/product launch). 
 * Use Pageview URL (similar to the Page Title metric in GA) to build conversion funnels to analyze CTRs for each step.
 * Use Inequality Join and DATEDIFF Function to analyze repeat customer behavior and repeat channel performance.
