@@ -51,3 +51,6 @@ By exploring the database and **writing multi-step SQL queries to work on real-w
 ### Acknowledgement: 
 This practice project is part of the [Advanced SQL + MySQL for Analytics & Business Intelligence](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/) course taught by John Pauler (Analytics Experts with Maven Analytics). The database is owned by the instructor which is not publicly available. 
 
+![image](https://user-images.githubusercontent.com/64668691/213935276-7e8f0503-7029-49bd-b303-05520732356f.png)
+
+
